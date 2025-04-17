@@ -1,4 +1,4 @@
-# Lab0: Environmant Setup
+# Lab0: Environment Setup
 
 ## Cross-Platform Development
 
